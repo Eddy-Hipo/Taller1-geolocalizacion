@@ -1,5 +1,7 @@
 {
   "name": "taller11",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
